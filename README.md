@@ -1,29 +1,27 @@
-# 📈 Stock Market Data Analysis
+# Web Series Data Analysis 📊
 
-📌 Project Overview
-This project analyzes stock market data using Python and Pandas. 
-It includes data cleaning, preprocessing, descriptive statistics and aggregation analysis.
+# Project Overview
+This project analyzes a Web Series dataset using Python and Data Science techniques.
 
-📊 Dataset Details
-- Rows: 100
-- Columns: 10
-- Domain: Finance / Stock Market
-
-🛠 Tools Used
+# Tools Used
 - Python
 - Pandas
-- Google Colab
-- Excel
+- Matplotlib
+- Jupyter Notebook
 
-📈 Analysis Performed
-- Missing value checking
-- Duplicate detection
-- Data type correction
-- Outlier detection (IQR method)
-- Descriptive statistics
-- Sector-wise aggregation
+# Dataset
+The dataset contains information about web series including ratings, genres, and other attributes.
 
-📁 Files Included
-- Dataset (Excel file)
-- Jupyter Notebook (.ipynb)
+# Analysis Performed
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Visualization
+- Insights and Conclusion
 
+# Key Findings
+- Identified trends in ratings
+- Genre distribution analysis
+- Popular web series patterns
+
+## Author
+Nishan Mogaveera
